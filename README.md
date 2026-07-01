@@ -11,4 +11,4 @@ Lessons will start with printing a random line statement using the print command
 2. Read the explanation in the text files.
 3. Copy the code into your own editor to practice changing the values and running it!
 **Want to see what lesson I'm working on right now? Check out the
-[Project Roadmap Board]()!**
+[Project Roadmap Board](https://github.com/users/samiyakhan317/projects/1)!**
